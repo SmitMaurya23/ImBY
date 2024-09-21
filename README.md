@@ -11,8 +11,8 @@ https://docs.google.com/document/d/1UrtVp-oZmyfl9Rq-MQqJbPUYg-dpjtpDVcftZWUodYA/
 Clear documentation on how to set up and run:\
 https://docs.google.com/document/d/1Zdz-nxZKz_s68IZ7kltSrsZI_7rnUIPIEC-Wmiplu24/edit?usp=sharing
 
-Deployed link:\
-https://useful-rooster-65.accounts.dev/sign-in?redirect_url=https%3A%2F%2Fimby.vercel.app%2F
+Deployed link:
+https://imby.vercel.app/
 
 
 ImBY - Instant Messaging for Buddies & You
